@@ -12,14 +12,14 @@ namespace Stage___RDG
     {
         internal static void Start()
         {
-            string pathSmall = @"c:\Users\JoeyM\Desktop\StageSteria\CSV\testfile.csv";
-            //string pathSmall = @"D:\CSV\testfile.csv";
+            //string pathSmall = @"c:\Users\JoeyM\Desktop\StageSteria\CSV\testfile.csv";
+            string path = @"D:\CSV\testfile.csv";
             RealNameGenerator generator = new();
             //Total old amount of chickens needed to reach 200 GB.
             //long oldAmount = 5970845481;
             long amount = 2700000000;
 
-            using StreamWriter outputFile = File.AppendText(pathSmall);
+            using StreamWriter outputFile = File.AppendText(path);
             try
             {
                 outputFile.WriteLine($"id, name, gender, date_of_birth, color, owner_id, location_id, section, species, favorite_food, country_origin, health_status");
