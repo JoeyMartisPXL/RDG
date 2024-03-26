@@ -1,0 +1,17 @@
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\Stage - RDG.exe
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\Stage - RDG.deps.json
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\Stage - RDG.runtimeconfig.json
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\Stage - RDG.dll
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\Stage - RDG.pdb
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.AssemblyInfoInputs.cache
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.AssemblyInfo.cs
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.csproj.CoreCompileInputs.cache
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.dll
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\refint\Stage - RDG.dll
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.pdb
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.genruntimeconfig.cache
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\ref\Stage - RDG.dll
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\bin\Debug\net8.0\NameGenerator.dll
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - RDG.csproj.AssemblyReference.cache
+C:\Users\JoeyM\Desktop\StageSteria\Applicaties\Stage - RDG\Stage - RDG\obj\Debug\net8.0\Stage - .820B12F1.Up2Date

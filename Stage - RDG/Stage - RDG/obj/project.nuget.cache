@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AD5HQcMa4qkm6Ob80Dmu5Z3nkjqvnHVTLrV3Ta83WvZnZc8VpoivfyuaniIMAPPWVRtbvsvEyxuBNwWutM3iCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoeyM\\Desktop\\StageSteria\\Applicaties\\Stage - RDG\\Stage - RDG\\Stage - RDG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoeyM\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\JoeyM\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
