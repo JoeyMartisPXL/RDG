@@ -13,7 +13,7 @@ namespace Stage___RDG
             Random random = new();
             DateTime birthday = DateTime.Now.AddDays(- random.Next(0, 7837));
             string dayOfBirth = birthday.ToString("MM/dd/yyyy");
-            string[] gender = ["rooster", "hen", "pullet"];
+            string[] gender = { "rooster", "hen", "pullet" };
             string assignedGender = gender[random.Next(0, gender.Length)];
             return new Chicken(id, name, assignedGender, dayOfBirth);
         }
